@@ -15,6 +15,11 @@
     "revision": "cm-12.0"
   },
   {
+    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-12.0"
+  },
+  {
     "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision": "cm-12.0"
